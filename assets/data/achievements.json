@@ -1,0 +1,263 @@
+{
+  "lastUpdated": "2026-02-17",
+  "achievements": {
+    "100": {
+      "category": "earnings",
+      "description": "Mine or receive 1 DUCO. Everyone has to start somewhere, right?",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/100.png",
+      "name": "Freshman",
+      "reward": 0
+    },
+    "101": {
+      "category": "earnings",
+      "description": "Mine or receive 100 DUCO. Looks like you're catching speed, watch out for speed radars!",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/101.png",
+      "name": "Rising Star",
+      "reward": 0
+    },
+    "102": {
+      "category": "earnings",
+      "description": "Mine or receive 777 DUCO. Look - a four-leaf clover! We're so lucky to have you here",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/102.png",
+      "name": "Entrepreneur",
+      "reward": 77.77
+    },
+    "103": {
+      "category": "mining",
+      "description": "Reach 100 000 accepted shares in one of your miners. Finally a stable setup, huh?",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/103.png",
+      "name": "Mining Expert",
+      "reward": 190.5
+    },
+    "104": {
+      "category": "account",
+      "description": "Get your account verified. Really. Just that.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/104.png",
+      "name": "Professional Photographer",
+      "reward": 0
+    },
+    "105": {
+      "category": "investments",
+      "description": "Buy at least 10 000 DUCO from the \u003Ca href='https://exchange.duinocoin.com'\u003EDUCO Exchange\u003C/a\u003E or \u003Ca href='https://fluffyswap.com'\u003EFluffySwap\u003C/a\u003E in a single take. Good decision!",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/105.png",
+      "name": "Beginner Investor",
+      "reward": 1905
+    },
+    "106": {
+      "category": "investments",
+      "description": "Buy at least 100 000 DUCO from the \u003Ca href='https://exchange.duinocoin.com'\u003EDUCO Exchange\u003C/a\u003E or \u003Ca href='https://fluffyswap.com'\u003EFluffySwap\u003C/a\u003E in a single take. Nice choice!",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/106.png",
+      "name": "For Better Future",
+      "reward": 28011
+    },
+    "107": {
+      "category": "mining",
+      "description": "Reach 5 000 accepted shares in one of your miners. The fun just begins!",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/107.png",
+      "name": "Kolkastart",
+      "reward": 1.905
+    },
+    "108": {
+      "category": "account",
+      "description": "Phased out: Staking is not available anymore",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/108.png",
+      "name": "Steak? Nah, it's a stake!",
+      "reward": 0.1337
+    },
+    "109": {
+      "category": "account",
+      "description": "Phased out: Staking is not available anymore",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/109.png",
+      "name": "My steak is done! I mean, the stake!",
+      "reward": 1.905
+    },
+    "110": {
+      "category": "investments",
+      "description": "Buy at least \u003Cb\u003E1 million DUCO\u003C/b\u003E from the \u003Ca href='https://exchange.duinocoin.com'\u003EDUCO Exchange\u003C/a\u003E or \u003Ca href='https://fluffyswap.com'\u003EFluffySwap\u003C/a\u003E in a single take. You're the big boss now.",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/110.png",
+      "name": "The Godfather",
+      "reward": 1028011
+    },
+    "111": {
+      "category": "mining",
+      "description": "Reach \u003Cb\u003E1 million\u003C/b\u003E accepted shares in one of your miners. Maybe you should start a mining company?",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/111.png",
+      "name": "Mining Empire",
+      "reward": 1905
+    },
+    "112": {
+      "category": "mining",
+      "description": "Find a block during mining. The so-called big blocks are randomly found by miners giving big rewards and supporting the network",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/112.png",
+      "name": "Brick by brick, block by block...",
+      "reward": 0
+    },
+    "113": {
+      "category": "investments",
+      "description": "Buy your own cell on the \u003Cb\u003E\u003Ca href='https://infter.net' target='_blank'\u003EiNFTer.net\u003C/a\u003E\u003C/b\u003E with Duino-Coins",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/113.png",
+      "name": "The Braincell",
+      "reward": 5000
+    },
+    "114": {
+      "category": "mining",
+      "description": "Reach 20 000 accepted shares in one of your miners. Looks like you're gaining speed.",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/114.png",
+      "name": "Mining Headman",
+      "reward": 19.05
+    },
+    "115": {
+      "category": "mining",
+      "description": "Use an Arduino (AVR) board for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/115.png",
+      "name": "AVR Ore Hunter",
+      "reward": 0.5
+    },
+    "116": {
+      "category": "mining",
+      "description": "Use an ESP8266 board for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/116.png",
+      "name": "WLAN Wealth Wizard",
+      "reward": 0.5
+    },
+    "117": {
+      "category": "mining",
+      "description": "Use an ESP32 board for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/117.png",
+      "name": "Airwave Resource Hunter",
+      "reward": 0.5
+    },
+    "118": {
+      "category": "mining",
+      "description": "Use a Raspberry Pi (SBC) for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/118.png",
+      "name": "Crypto Pi Pioneer",
+      "reward": 0.5
+    },
+    "119": {
+      "category": "mining",
+      "description": "Report Internet-of-Things data with your miner.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/119.png",
+      "name": "IoT Innovator",
+      "reward": 5
+    },
+    "120": {
+      "category": "account",
+      "description": "Get rewarded from submitting work to the \u003Ca href='https://server.duinocoin.com/creators_corner.html' target='_blank'\u003Econtent creators' corner\u003C/a\u003E.",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/120.png",
+      "name": "Artist",
+      "reward": 50
+    },
+    "121": {
+      "category": "account",
+      "description": "Send coins to the \u003Cspan class='tag'\u003Ecoinburn\u003C/span\u003E account to burn (delete) them.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/121.png",
+      "name": "You Will Be Baked [...]",
+      "reward": 0
+    },
+    "122": {
+      "category": "account",
+      "description": "Your account was registered before 23.08.2021",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/122.png",
+      "name": "True OG",
+      "reward": 2021.08
+    },
+    "123": {
+      "category": "account",
+      "description": "Your account is at least 2 years old",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/123.png",
+      "name": "Veteran",
+      "reward": 1000
+    },
+    "124": {
+      "category": "account",
+      "description": "Your account is at least 1 year old",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/124.png",
+      "name": "Experienced Miner",
+      "reward": 500
+    },
+    "125": {
+      "category": "other",
+      "description": "Participate in Christmas 2024 events",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/125.png",
+      "name": "Christmas 2024",
+      "reward": 10
+    },
+    "126": {
+      "category": "mining",
+      "description": "Reach 500 000 accepted shares in one of your miners. Keep going!",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/126.png",
+      "name": "Halfway to 6 Zeroes",
+      "reward": 350
+    },
+    "127": {
+      "category": "mining",
+      "description": "Reach \u003Cb\u003E2 million\u003C/b\u003E accepted shares in one of your miners. Nothing can stop you anymore",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/127.png",
+      "name": "Mining Obsession",
+      "reward": 3500
+    },
+    "128": {
+      "category": "mining",
+      "description": "Use your PC for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/128.png",
+      "name": "PC Tormentor",
+      "reward": 0.25
+    },
+    "129": {
+      "category": "mining",
+      "description": "Use the \u003Ca href='https://server.duinocoin.com/webminer.html' target='_blank'\u003EWeb Miner\u003C/a\u003E for mining.",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/129.png",
+      "name": "Internet Surfer",
+      "reward": 0.25
+    },
+    "130": {
+      "category": "other",
+      "description": "Support Duino-Coin in the BitStorage listing fundraiser. Thank you!",
+      "email": true,
+      "icon": "https://server.duinocoin.com/assets/achievements/130.png",
+      "name": "BitStorage Hero",
+      "reward": 500
+    },
+    "999": {
+      "category": "other",
+      "description": "More achievements will be added in the near future",
+      "email": false,
+      "icon": "https://server.duinocoin.com/assets/achievements/more.png",
+      "name": "Coming Soon",
+      "reward": 0
+    }
+  },
+  "server": "master2",
+  "success": true
+}
