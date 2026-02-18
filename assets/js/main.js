@@ -1018,7 +1018,7 @@ function renderTransactions(txs) {
   if (!container) return;
   container.innerHTML = "";
 
-  if (!txs.length) {
+  if (!txs || !txs.length) {
     const empty = document.createElement("div");
     empty.className = "muted";
     empty.textContent = "No transactions found.";
@@ -1026,7 +1026,18 @@ function renderTransactions(txs) {
     return;
   }
 
-  txs.slice(0, 5).forEach((tx) => {
+  // Strictly sort by datetime (latest first)
+  const sortedTxs = [...txs].sort((a, b) => {
+    const aDate = parseDucoDate(a.datetime);
+    const bDate = parseDucoDate(b.datetime);
+
+    const aMs = aDate ? aDate.getTime() : 0;
+    const bMs = bDate ? bDate.getTime() : 0;
+
+    return bMs - aMs; // newest at top
+  });
+
+  sortedTxs.slice(0, 5).forEach((tx) => {
     const item = document.createElement("div");
     item.className = "tx-item";
 
@@ -1058,11 +1069,8 @@ function renderTransactions(txs) {
     const date = document.createElement("div");
     date.className = "tx-date";
 
-    const rawTs =
-      tx.datetime || tx.timestamp || tx.time || tx.date || tx.datetime_utc;
-
-    const exactTs = formatUtcTimestamp(rawTs);
-    const relativeTs = formatRelativeTime(rawTs);
+    const exactTs = formatUtcTimestamp(tx.datetime);
+    const relativeTs = formatRelativeTime(tx.datetime);
 
     const dateSpan = document.createElement("span");
     dateSpan.textContent = relativeTs || exactTs;
